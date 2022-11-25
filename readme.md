@@ -13,3 +13,6 @@
     
 ### Run the project
     5. npm start
+    
+    
+    <a href = "https://store-nine-xi.vercel.app/cart">View</a>
