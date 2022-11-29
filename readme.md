@@ -1,4 +1,5 @@
 # paratha website
+<a href = "https://store-nine-xi.vercel.app/cart">View</a>
 
 
 ### Steps to run this project
